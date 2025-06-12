@@ -666,11 +666,12 @@ width: auto;
 
 
 #submit{
-    color: #181d38; 
+    color: white; 
     border-radius: 10px;
     padding: 10px 20px;
     background-color: #4f7c2e;
     border: none;
+    font-weight: bold;
 }
 
 #submit:hover {
